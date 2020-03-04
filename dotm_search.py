@@ -1,6 +1,8 @@
 import os
 import zipfile
 
+__author__ = "Chris Wilson, Koren, Sean, Julita"
+
 
 def grabfile(directories):
     hold_files = []
